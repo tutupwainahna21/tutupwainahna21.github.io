@@ -161,3 +161,21 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 <div style="text-align: center;"><b style="font-family: arial;"><a href="xselebgram.xyz/search/" rel="nofollow" target="_blank">《First Page《Prev&nbsp;&nbsp;1-2-3-4-5-6-7...&nbsp; Next》Last Page》</a></b></div><br /><br />
 </div>
 
+
+
+
+
+
+
+<div class="jontor" loading="lazy">
+<script src="https://rawgit.com/rezamuhamad/rakinfo/master/sitemap.js"></script>
+<script src="https://www.dukuhmaga.my.id/feeds/posts/default/?start-index=1&max-results=9999&amp;alt=json-in-script&amp;callback=rak_info_Load"></script>
+</div>
+
+
+
+
+
+
+
+
