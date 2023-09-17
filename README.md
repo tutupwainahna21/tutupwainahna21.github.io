@@ -1,6 +1,246 @@
+<style media='all' type='text/css'>
+.bwstoc {
+ margin: 10px 0;
+ background: #F0F0F0;
+ border: 1px solid #ddd;
+}
+.bwstoc ol, .bwstoc ul {
+ margin: 0 0 15px 20px;
+ padding: 0;
+}
+.bwstoc ul {
+ list-style: disc;
+}
+.bwstoc ol li, .bwstoc ul li {
+ font-size: 95%;
+ padding: 5px 10px 0 0;
+ margin: 0 0 0 30px;
+}
+.bwstoc a {
+ text-decoration: none;
+}
+.bwstoc a:hover {
+ text-decoration: underline;
+}
+.bwstoc .bwstocHeader {
+ font-weight: bold;
+ font-size: 100%;
+ position: relative;
+ outline: none;
+ border: none;
+ padding: 5px 15px 5px 5px;
+ margin: 5px 10px;
+}
+.bwstoc .bwstocHeader a {
+ text-decoration: none;
+ cursor: pointer;
+}
+.bwstoc .bwstocHeader a:hover {
+ text-decoration: underline;
+}
+</style>
+<!-- Blogger TOC -->
+<script type='text/javascript'>
+//<![CDATA[
+function bwstoc() {
+ var bwstoc = i = headinglength = getheading = 0;
+ headinglength = document.getElementById("post-toc").querySelectorAll("h2, h3, h4").length;
+ if (headinglength > 1) { 
+ // Hanya Tampil Jika Ditemukan Minimal 2 Heading
+ for (i = 0; i < headinglength; i++) {
+ getheading = document.getElementById("post-toc").querySelectorAll("h2, h3, h4")[i].textContent;
+ var bws_1 = getheading.replace(/[^a-z0-9]/gi," ");
+ var bws_2 = bws_1.trim();
+ var getHeadUri = bws_2.replace(/s/g, "_");
+ document.getElementById("post-toc").querySelectorAll("h2, h3, h4")[i].setAttribute("id", getHeadUri);
+ bwstoc = "<li><a href='#" + getHeadUri + "'>" + getheading + "</a></li>";
+ document.getElementById("bwstoc").innerHTML += bwstoc;
+ }
+ } else { document.write("<style>.bwstoc{display:none !important;visibility:hidden !important;width:0 !important;height:0 !important;}</style>"); }
+}
+function bwstocShow() {
+    var bwstocBtn = document.getElementById('bwstoc');
+ var bwstocWrapID = document.getElementById('bwstocwrap');
+ var bwstocLink = document.getElementById('bwstocLink');
+    if (bwstocBtn.style.display === 'none') {
+        bwstocBtn.style.display = 'block';
+ bwstocWrapID.style.display = 'block';
+ bwstocLink.innerHTML = 'Close';
+ 
+    } else {
+        bwstocBtn.style.display = 'none';
+ bwstocWrapID.style.display = 'inline-block';
+ bwstocLink.innerHTML = 'Show';
+    }
+}
+//]]>
+</script>
+<noscript><style media='all' type='text/css'>#bwstocwrap,.bwstoc{display:none !important;visibility:hidden !important;width:0 !important;height:0 !important;}</style></noscript>
+<br />
+<div id='post-toc'><br />
 
 
 
+<div id='bwstocwrap' class='bwstoc' style='display:inline-block;'><div class='bwstocHeader'><a id='bwstocLink' onclick='bwstocShow()'>Show</a></div><ul id='bwstoc' style='display:none'/></ul></div>
+
+
+<!--tuliskonten disini 🥰🥰🥰🥰🥰🥰 -->
+
+
+
+
+
+<style>#closefloat{cursor:pointer;font-size:5px;position:absolute;right:0;top:40%;background:rgba(1,0,1,.4);padding:2px 2px 0 2px;border-radius:50% 0 0 50%;z-index:8}.fb-btn-zuamsyah{border-radius:5px;background:rgba(1,0,1,0.0);position:fixed;bottom:0;left:0;z-index:9;box-shadow:0 1px 4px rgb(0 0 0 / 20%);display:block;-moz-animation:atas 10s;-webkit-animation:atas 10s;animation:atas 10s;border-radius:2px;width:100%;max-width:100%;max-height:100px}.fb-btn-zuamsyah2{-moz-animation:atas 10s;-webkit-animation:atas 10s;animation:atas 10s;position:relative}.fb-btn-zuamsyah a:link,.fb-btn-zuamsyah a:visited{color:#fff}.fb-btn-zuamsyah a:hover{color:#fff}.post-body h2{display:block;padding:5px 22px;background:#636363;color:#fff;font-size:1.45rem;border-radius:4px;box-shadow:grey 0 2px 5px}</style>
+<script>window.onload = function(){ document.getElementById('closefloat').onclick = function(){ this.parentNode.parentNode.parentNode .removeChild(this.parentNode.parentNode); return false; }; };</script> <div class="fb-btn-zuamsyah"><div class="fb-btn-zuamsyah2">
+
+
+<div style="display: block; width: 100%; height: 200px; margin: auto; background-color: #fff;text-align: center; overflow: auto;  ">
+<b><span style="color: black;">ads by adsterra</span></b>
+<br />
+<script type='text/javascript' src='//bandageretaliateemail.com/17/b4/9e/17b49eac92bf71497fe3d22ec2d4d99e.js'></script><script type="text/javascript">
+	atOptions = {
+		'key' : 'a03ccd983783081c32e98687fa158143',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/a03ccd983783081c32e98687fa158143/invoke.js"></scr' + 'ipt>');
+</script>
+<br /><script type="text/javascript">
+	atOptions = {
+		'key' : '624f7847107a10488032a7a551cba5b8',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/624f7847107a10488032a7a551cba5b8/invoke.js"></scr' + 'ipt>');
+</script><br />
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '8c3f4c07f4823b0a09c58bd25bf40e7f',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/8c3f4c07f4823b0a09c58bd25bf40e7f/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : '93c978e1d215bc2856d6c15002f5768a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/93c978e1d215bc2856d6c15002f5768a/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : '5fb4250a8668afd9928b28b1f9666ffb',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/5fb4250a8668afd9928b28b1f9666ffb/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'ac9a478c23cd777b121d82c4be9b2966',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/ac9a478c23cd777b121d82c4be9b2966/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '41790db49dd937b4476b9261bfe6c2c3',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/41790db49dd937b4476b9261bfe6c2c3/invoke.js"></scr' + 'ipt>');
+</script>
+<script type='text/javascript' src='//buzzdancing.com/fc/25/d9/fc25d911fbee00957b924f3f48c4c58c.js'></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '8b3c834ed652ac093d7256450645b41e',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/8b3c834ed652ac093d7256450645b41e/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'c4b64b8f7f8d2ddcbd4a8542265c7c98',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/c4b64b8f7f8d2ddcbd4a8542265c7c98/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'fdf01d974a14502985f975dd7f24e731',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/fdf01d974a14502985f975dd7f24e731/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '4eb89e36bf3831c955ed7258c4e8f7c5',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/4eb89e36bf3831c955ed7258c4e8f7c5/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'fd91bb4f5f140787a9af421450c422e8',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/fd91bb4f5f140787a9af421450c422e8/invoke.js"></scr' + 'ipt>');
+</script>
+
+
+</div>
+
+<!--Kode iklan sampai sini-->
+
+</div><span id="closefloat"><svg style="height:14px;width:14px" viewbox="0 0 24 24"><path d="M20 6.91L17.09 4L12 9.09L6.91 4L4 6.91L9.09 12L4 17.09L6.91 20L12 14.91L17.09 20L20 17.09L14.91 12L20 6.91Z" fill="white"></path></svg></span></div>
+
+
+<a id="show_id" onclick="document.getElementById('spoiler_id').style.display=''; document.getElementById('show_id').style.display='none';"></a><span id="spoiler_id" style="display: none;"><a class="link" onclick="document.getElementById('spoiler_id').style.display='none'; document.getElementById('show_id').style.display='';"></a>
+<div style="background-color: rgba(0, 0, 0, 0); margin: 1px;">
+<div class="smallfont"><i><span style="font-size: 16px; font-weight: bold; margin-right: 3px;"></span></i><input onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Hide'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'new posts'; }" style="background-color: #00000000; font-size: 16px; width: auto;" type="button" value="new posts" />
+</div>
+<div class="alt2" style="background-color: rgba(255, 255, 255, 0); margin: 0px; padding: 0px;">
+<div style="display: none;" loading="lazy">
+
+<iframe width="100%" height="324" src="https://www.youtube.com/embed/QdAOvlAQ_FE" title="【4K】WALK MIAMI BEACH South Beach 4k SLOW TV travel video Bikini Beach USA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div></div></div></span>
 
 <div style="padding:2%; width:100%;">
 <b>Random Posts :</b><br />
@@ -180,8 +420,12 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 <script src="https://www.dukuhmaga.my.id/feeds/posts/default/?start-index=1&max-results=9999&amp;alt=json-in-script&amp;callback=rak_info_Load"></script>
 </div>
 
-</div></div></div></span>l
+</div></div></div></span>
 
+
+
+<script>bwstoc();</script>
+</div>
 
 
 
