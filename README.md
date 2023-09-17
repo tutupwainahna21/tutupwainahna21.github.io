@@ -165,7 +165,7 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 
 
 
-
+<iframe width="100%" height="524" src="https://www.youtube.com/embed/A8gXaBcyd1o" title="MISS POLONIA 2023 - WSZYSTKIE KANDYDATKI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="jontor" loading="lazy">
 <script src="https://rawgit.com/rezamuhamad/rakinfo/master/sitemap.js"></script>
